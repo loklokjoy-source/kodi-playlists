@@ -1,15 +1,4 @@
 #EXTM3U
-# Official broadcaster/CDN candidates. Not playback-verified; check from your own network.
-#EXTINF:-1 tvg-id="RTHKTV31.hk" tvg-chno="31" group-title="RTHK",RTHK TV 31
-https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
-#EXTINF:-1 tvg-id="RTHKTV32.hk" tvg-chno="32" group-title="RTHK",RTHK TV 32
-https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
-#EXTINF:-1 tvg-id="HongKongInternationalBusinessChannel.hk" tvg-chno="76" group-title="HOY",HOY 76
-https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
-#EXTINF:-1 tvg-id="HOYTV.hk" tvg-chno="77" group-title="HOY",HOY 77
-https://hoytv-live-stream.hoy.tv/ch77/index.m3u8
-#EXTINF:-1 tvg-id="HOYInfotainment.hk" tvg-chno="78" group-title="HOY",HOY 78
-https://hoytv-live-stream.hoy.tv/ch78/index.m3u8
 # TVB Jade: browser playback confirmed by the playlist owner; Kodi playback not verified.
-#EXTINF:-1 tvg-id="Jade.hk" tvg-chno="81" group-title="TVB",TVB Jade
+#EXTINF:-1 tvg-id="Jade.hk" tvg-chno="81" group-title="TVB",翡翠台
 https://cdn3.indevs.in/stream/tvb/fct/
