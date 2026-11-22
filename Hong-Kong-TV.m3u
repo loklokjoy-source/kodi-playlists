@@ -10,3 +10,6 @@ https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
 https://hoytv-live-stream.hoy.tv/ch77/index.m3u8
 #EXTINF:-1 tvg-id="HOYInfotainment.hk" tvg-chno="78" group-title="HOY",HOY 78
 https://hoytv-live-stream.hoy.tv/ch78/index.m3u8
+# TVB Jade: browser playback confirmed by the playlist owner; Kodi playback not verified.
+#EXTINF:-1 tvg-id="Jade.hk" tvg-chno="81" group-title="TVB",TVB Jade
+https://cdn3.indevs.in/stream/tvb/fct/
