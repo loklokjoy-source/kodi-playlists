@@ -2,3 +2,5 @@
 # TVB Jade: browser playback confirmed by the playlist owner; Kodi playback not verified.
 #EXTINF:-1 tvg-id="Jade.hk" tvg-chno="81" group-title="TVB",翡翠台
 https://cdn3.indevs.in/stream/tvb/fct/
+#EXTINF:-1 tvg-id="TVBNewsChannel.hk" tvg-chno="83" group-title="TVB",無綫新聞台
+https://cdn6.cc.cd/163189/wxxwt
