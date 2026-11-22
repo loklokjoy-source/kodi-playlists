@@ -4,3 +4,5 @@
 https://cdn3.indevs.in/stream/tvb/fct/
 #EXTINF:-1 tvg-id="TVBNewsChannel.hk" tvg-chno="83" group-title="TVB",無綫新聞台
 https://cdn6.cc.cd/163189/wxxwt
+#EXTINF:-1 tvg-id="NowNews.hk" group-title="Now TV",Now 新聞台
+https://fast.hidns.vip/163189/now
